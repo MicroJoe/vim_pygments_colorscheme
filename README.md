@@ -5,6 +5,10 @@ python-pygments theme. gVim-only compatible.
 
 Feel free to send patchs to make it closer to the original theme!
 
+## Screenshot
+
+![Theme preview](http://i.imgur.com/pc7XMGd.png)
+
 ## Installation
 
 In order to use this colorscheme in your gVim, you first have to copy (or link)
